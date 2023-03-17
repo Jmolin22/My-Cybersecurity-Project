@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jmolin22
 - 👀 I’m interested in CyberDefense
-- 🌱 I’m currently learning education
-- 💞️ I’m looking to collaborate on training
+- 🌱 I’m currently learning Network+
+- 💞️ I’m looking for an entry level position in Cybersecurity.
 - 📫 How to reach me through GitHub
 
 <!---
